@@ -16,7 +16,7 @@ const Container = styled.footer`
 `
 export default () => (
   <Container>
-    <Link href='https://sentry.io/welcome' target='_blank' alt="Sentry.io's website."><p style={{ margin: '10px 0' }}>Sentry.io</p></Link>
-    <p style={{ margin: '0' }}>Friday, January 11th, 2019</p>
+    <Link href='https://www.meetup.com/Desert-GraphQL-Meetup/' target='_blank' alt="Desert GraphQL Meetup"><p style={{ margin: '10px 0' }}>Desert GraphQL Meetup</p></Link>
+    <p style={{ margin: '0' }}>Tuesday, January 29th, 2019</p>
   </Container>
 )
